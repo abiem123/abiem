@@ -1,0 +1,15 @@
+*🔰SHARE TOOLS TERMUX TERBARU 2019🔰*
+     *🔰TOOLS 100% WORK SEMUA🔰*
+     *🔰ISI : 57 TOOLS TERMUX🔰*
+
+➖➖➖➖➖➖➖➖➖➖
+*🔰Install:
+*🔰$ pkg install git
+*🔰$ pkg install python2
+*🔰$ pkg install bash
+*🔰$ git clone https://github.com/Rusmana-ID/rus
+*🔰$ cd rus
+*🔰$ sh v2.sh
+➖➖➖➖➖➖➖➖➖➖
+
+_Gunakan dengan bijak_
